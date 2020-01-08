@@ -1,0 +1,2 @@
+lab06: no exc 2; exc 3 invalid
+lab10: exc02 invalid
